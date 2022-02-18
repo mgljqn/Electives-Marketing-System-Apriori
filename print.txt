@@ -1,0 +1,8 @@
+		SUPERMARKET BILL		
+		                        		
+2022/2/15			19:53
+Product name	|Price
+blenders pride			750
+eggs			5
+colgate			75
+Payable Amount:	700.0
